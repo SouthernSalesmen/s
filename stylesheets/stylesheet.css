@@ -298,6 +298,66 @@ a#logo:hover {
 	color: #2b6ccd;
 }
 
+/*------ CALENDAR ------*/
+
+table {
+    border-spacing: 0;
+    margin: 2em auto;
+    position: relative;
+    width: 100%;
+}
+
+table:before {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    background: white;
+    display: block;
+    z-index: -1;
+}
+
+table:after {
+    position: absolute;
+    top: 2px;
+    left: 4px;
+    background: white;
+    display: block;
+    z-index: -2;
+}
+
+
+table tbody th {
+    background-color: white;
+    border-bottom: 1px solid #d4d4d4;
+    border-top: 1px solid #d4d4d4;
+    color: #666666;
+    font-size: 7.5pt;
+    font-weight: normal;
+    padding: 4px 0;
+    text-align: center;
+    text-shadow: 0 1px 0 #ffffff;
+    text-transform: uppercase;
+    width: 34px;
+}
+
+
+table tbody td {
+    background-color: white;
+    border-bottom: 1px solid #e2e2e2;
+    color: #444444;
+    font-size: 11pt;
+    font-weight: bold;
+    height: 27px !important;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+}
+
+table tbody td.off { color: #d8dbde }
+
+table tbody td.today { color: #eb9b3b }
+
+table tbody th.today { color: #eb9b3b }
 
 /*------ FOOTER ------*/
 
