@@ -101,7 +101,6 @@ body {
 a {
 	text-decoration: none;
 	color: #9099A3;
-	font-size: 14px;
 	line-height: 1.8;
 	-webkit-font-smoothing: antialiased; 
 	font-smoothing: antialiased;
@@ -113,7 +112,7 @@ a {
 }
 
 a:hover {
-	color: #2D72D9;
+	color: #eb9b3b;
 }
 
 p {
@@ -346,7 +345,7 @@ table tbody td {
     border-bottom: 1px solid #e2e2e2;
     color: #444444;
     font-size: 21pt;
-    padding: 10px 0px 10px 0px;
+    padding: 5px 0px 5px 0px;
     font-weight: bold;
     text-align: center;
     width: 34px;
