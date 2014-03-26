@@ -355,9 +355,9 @@ table tbody td {
 
 table tbody td.off { color: #d8dbde }
 
-table tbody td.today { color: #eb9b3b }
+table tbody td.a.today { color: #eb9b3b }
 
-table tbody th.today { color: #eb9b3b }
+table tbody th.a.today { color: #eb9b3b }
 
 /*------ FOOTER ------*/
 
