@@ -4,6 +4,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+   <url>
+
+      <loc>http://southernsalesmen.com/v/beats-by-dr-dre-headphones.html</loc>
+
+      <lastmod>2014-03-27T08:29:24-05:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.2</priority>
+
+   </url>
+
    <url>
 
       <loc>http://southernsalesmen.com/v/amazon-kindle-paperwhite-wednesday.html</loc>
