@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <sitemap>
+
+      <loc>http://southernsalesmen.com/smp1.xml</loc>
+
+      <lastmod>2014-03-26T19:59:34-05:00</lastmod>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>http://www.example.com/v/smp2.xml</loc>
+
+      <lastmod>2014-03-26T19:59:34-05:00</lastmod>
+
+   </sitemap>
+
+</sitemapindex>
